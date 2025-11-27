@@ -1,6 +1,6 @@
 # Hello there.
 
-I am Lukas, a software engineer from Germany :D
+I am Lukas, a software engineer from Germany :D  
 I am a fan of open source software and like to share my own tools and modifications to make life easier and mould our digital world.
 I also like video games, duh...
 
