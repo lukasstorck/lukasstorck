@@ -5,14 +5,14 @@ I am a fan of open source software and like to share my own tools and modificati
 I also like video games, duh...
 
 
-### Dynamic Virtual Controller
+### [Dynamic Virtual Controller](https://github.com/lukasstorck/dynamic-virtual-controller)
 
-Dynamic Virtual Controller (DVC) is a tool to connect users (e.g. on a browser) via a server to virtual output devices (e.g. a virtual X-Box Controller).
+[Dynamic Virtual Controller](https://github.com/lukasstorck/dynamic-virtual-controller) is a tool to connect users (e.g. on a browser) via a server to virtual output devices (e.g. a virtual X-Box Controller).
 This allows Coop Gameplay over the internet with a variaty of features like Keyboard to Controller mapping, customizable keybinds, sharing the same or controlling multiple controllers.
 The idea started with Brotato, which allows Coop Gameplay via Steam Remote Play, but is limited as you need physical controllers to pass-through and only works with Steam games.
 
 
-### Markdown to Steam bbCode
+### [Markdown to Steam bbCode](https://github.com/lukasstorck/markdown-to-steam-bbcode)
 
 A small JavaScript based in-browser transpiler for Markdown text to bbCode as used in the Steam Workshop.
 I was annoyed by the syntax differences between Markdown and bbCode as I had to do many edit when converting the text format.
