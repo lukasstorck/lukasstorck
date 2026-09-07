@@ -1,7 +1,7 @@
 # Hello there.
 
 I am Lukas, a software engineer from Germany :D  
-I am a fan of open source software and like to share my own tools and modifications to make life easier and mould our digital world.
+I am a fan of open source software and like to share my own tools and modifications to make life easier and mold our digital world.
 I also like video games, duh...
 
 ### [NoteVote](https://github.com/lukasstorck/note-vote)
@@ -15,7 +15,7 @@ Users get live updates for new notes and incoming votes.
 ### [Dynamic Virtual Controller](https://github.com/lukasstorck/dynamic-virtual-controller)
 
 [Dynamic Virtual Controller](https://github.com/lukasstorck/dynamic-virtual-controller) is a tool to connect users (e.g. on a browser) via a server to virtual output devices (e.g. a virtual X-Box Controller).
-This allows Coop Gameplay over the internet with a variaty of features like Keyboard to Controller mapping, customizable keybinds, sharing the same or controlling multiple controllers.
+This allows Coop Gameplay over the internet with a variety of features like Keyboard to Controller mapping, customizable keybinds, sharing the same or controlling multiple controllers.
 The idea started with Brotato, which allows Coop Gameplay via Steam Remote Play, but is limited as you need physical controllers to pass-through and only works with Steam games.
 
 
