@@ -11,6 +11,8 @@ I also like video games, duh...
 [Calendar Manager](https://github.com/lukasstorck/calendar-manager) uses calendar imports, exports and boards to retrieve calendar events, combine and filter them to create new subscribable web calendars and share them with other people.
 It includes automatic backups for imported web calendars and user accounts via configurable identity providers.
 
+---
+
 ### [NoteVote](https://github.com/lukasstorck/note-vote)
 
 <img src="https://raw.githubusercontent.com/lukasstorck/note-vote/refs/heads/main/media/demo.png" alt="NoteVote Demo">
@@ -21,6 +23,8 @@ Neither are tied to the user identities.
 The user client is trusted to keep track of their votes via transaction ids in case they later want to change their vote.
 Users get live updates for new notes and incoming votes.
 
+---
+
 ### [Dynamic Virtual Controller](https://github.com/lukasstorck/dynamic-virtual-controller)
 
 <img src="media/demo_dynamic_virtual_controller.png" alt="Dynamic Virtual Controller Demo">
@@ -29,6 +33,7 @@ Users get live updates for new notes and incoming votes.
 This allows Coop Gameplay over the internet with a variety of features like Keyboard to Controller mapping, customizable keybinds, sharing the same or controlling multiple controllers.
 The idea started with Brotato, which allows Coop Gameplay via Steam Remote Play, but is limited as you need physical controllers to pass-through and only works with Steam games.
 
+---
 
 ### [Markdown to Steam bbCode](https://github.com/lukasstorck/markdown-to-steam-bbcode)
 
