@@ -6,10 +6,14 @@ I also like video games, duh...
 
 ### [Calendar Manager](https://github.com/lukasstorck/calendar-manager)
 
+<img src="media/demo_calendar_manager.png" alt="Calendar Manager Demo">
+
 [Calendar Manager](https://github.com/lukasstorck/calendar-manager) uses calendar imports, exports and boards to retrieve calendar events, combine and filter them to create new subscribable web calendars and share them with other people.
 It includes automatic backups for imported web calendars and user accounts via configurable identity providers.
 
 ### [NoteVote](https://github.com/lukasstorck/note-vote)
+
+<img src="https://raw.githubusercontent.com/lukasstorck/note-vote/refs/heads/main/media/demo.png" alt="NoteVote Demo">
 
 [NoteVote](https://github.com/lukasstorck/note-vote) is a lightweight, anonymous suggestion collection and voting tool.
 Users can submit notes and can cast votes for each note.
@@ -18,6 +22,8 @@ The user client is trusted to keep track of their votes via transaction ids in c
 Users get live updates for new notes and incoming votes.
 
 ### [Dynamic Virtual Controller](https://github.com/lukasstorck/dynamic-virtual-controller)
+
+<img src="media/demo_dynamic_virtual_controller.png" alt="Dynamic Virtual Controller Demo">
 
 [Dynamic Virtual Controller](https://github.com/lukasstorck/dynamic-virtual-controller) is a tool to connect users (e.g. on a browser) via a server to virtual output devices (e.g. a virtual X-Box Controller).
 This allows Coop Gameplay over the internet with a variety of features like Keyboard to Controller mapping, customizable keybinds, sharing the same or controlling multiple controllers.
