@@ -4,6 +4,11 @@ I am Lukas, a software engineer from Germany :D
 I am a fan of open source software and like to share my own tools and modifications to make life easier and mold our digital world.
 I also like video games, duh...
 
+### [Calendar Manager](https://github.com/lukasstorck/calendar-manager)
+
+[Calendar Manager](https://github.com/lukasstorck/calendar-manager) uses calendar imports, exports and boards to retrieve calendar events, combine and filter them to create new subscribable web calendars and share them with other people.
+It includes automatic backups for imported web calendars and user accounts via configurable identity providers.
+
 ### [NoteVote](https://github.com/lukasstorck/note-vote)
 
 [NoteVote](https://github.com/lukasstorck/note-vote) is a lightweight, anonymous suggestion collection and voting tool.
