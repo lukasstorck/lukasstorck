@@ -4,6 +4,13 @@ I am Lukas, a software engineer from Germany :D
 I am a fan of open source software and like to share my own tools and modifications to make life easier and mould our digital world.
 I also like video games, duh...
 
+### [NoteVote](https://github.com/lukasstorck/note-vote)
+
+[NoteVote](https://github.com/lukasstorck/note-vote) is a lightweight, anonymous suggestion collection and voting tool.
+Users can submit notes and can cast votes for each note.
+Neither are tied to the user identities.
+The user client is trusted to keep track of their votes via transaction ids in case they later want to change their vote.
+Users get live updates for new notes and incoming votes.
 
 ### [Dynamic Virtual Controller](https://github.com/lukasstorck/dynamic-virtual-controller)
 
