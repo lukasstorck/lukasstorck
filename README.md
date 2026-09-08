@@ -49,7 +49,7 @@ This makes it way easier to update the mod descriptions on Steam's workshop page
 - **Minecraft Datapacks**
   - [Brittle Bedrock](https://github.com/lukasstorck/brittle-bedrock): adds craftable *Dense TNT*, which weakens nearby bedrock to obsidian on explosion
   - [Yummy Steak](https://github.com/lukasstorck/yummy-steak): adds a craftable and enchantable food item that never runs out and applies the saturation effect for an hour
-  - [Mod Hunting Rewards](https://github.com/lukasstorck/mob-hunting-rewards): tracks and rewards mob kills
+  - [Mob Hunting Rewards](https://github.com/lukasstorck/mob-hunting-rewards): tracks and rewards mob kills
 - **The Elder Scrolls V: Skyrim**
   - [Improve Aura Whisper Shout](https://www.nexusmods.com/skyrimspecialedition/mods/118773): enhances vanilla game mechanic by changing duration, cooldown and which enemies (all) are highlighted
   - [Freeze Time](https://www.nexusmods.com/skyrimspecialedition/mods/118671): technically only an extreme variant of the vanilla shout [Slow Time](https://en.uesp.net/wiki/Skyrim:Slow_Time), as it toggles the time to slows by 99%
